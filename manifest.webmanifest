@@ -1,0 +1,30 @@
+{
+ "name": "ナミノオト 業務ボード",
+ "short_name": "業務ボード",
+ "display": "standalone",
+ "start_url": "./",
+ "scope": "./",
+ "lang": "ja",
+ "background_color": "#16233d",
+ "theme_color": "#16233d",
+ "icons": [
+  {
+   "src": "https://murakami-glitch.github.io/nami-photo/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "https://murakami-glitch.github.io/nami-photo/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "https://murakami-glitch.github.io/nami-photo/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
